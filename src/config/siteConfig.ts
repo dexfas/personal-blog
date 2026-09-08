@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "记录技术、生活与灵感",
 
 	// 站点 URL
-	site_url: "https://example.com",
+	site_url: "https://personal-blog-iota-puce.vercel.app",
 
 	// 站点描述
 	description: "一个记录技术探索、生活见闻与个人思考的独立博客。",
